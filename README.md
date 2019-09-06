@@ -7,11 +7,10 @@ instagrma clone with Express + Prisma and React Native
 - [x] Create account
 - [x] Request Secret
 - [x] Confirm Secret(Login)
-- [ ] Log in
-- [ ] Like / Unlike a photo
-- [ ] Comment on a photo
-- [ ] Search by user
-- [ ] Search by location
+- [x] Like / Unlike a photo
+- [x] Comment on a photo
+- [x] Search by user
+- [x] Search by location
 - [ ] See user profile
 - [ ] Follow / Unfollow user
 - [ ] See the full photo
